@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--内部颜色-->
+    <solid android:color="@color/common_black_alpha_00"></solid>
+    <!--边框颜色-->
+    <stroke
+        android:width="@dimen/dimens1"
+        android:color="@color/common_black_alpha_55"></stroke>
+    <!--圆角幅度-->
+    <corners android:radius="@dimen/dimens10"></corners>
+    <padding
+        android:bottom="@dimen/dimens1"
+        android:left="@dimen/dimens1"
+        android:right="@dimen/dimens1"
+        android:top="@dimen/dimens1"></padding>
+</shape>
